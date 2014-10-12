@@ -1,0 +1,14 @@
+G:\Bioinformatics\MediaMatch\MediaMatch\bin\Debug\MediaMatch.exe.config
+C:\Users\Kristina C\Desktop\MediaMatch\MediaMatch\bin\Debug\MediaMatch.exe.config
+C:\Users\Kristina C\Desktop\MediaMatch\MediaMatch\bin\Debug\MediaMatch.exe
+C:\Users\Kristina C\Desktop\MediaMatch\MediaMatch\bin\Debug\MediaMatch.pdb
+C:\Users\Kristina C\Desktop\MediaMatch\MediaMatch\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kristina C\Desktop\MediaMatch\MediaMatch\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Kristina C\Desktop\MediaMatch\MediaMatch\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kristina C\Desktop\MediaMatch\MediaMatch\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Kristina C\Desktop\MediaMatch\MediaMatch\obj\Debug\MediaMatch.csprojResolveAssemblyReference.cache
+C:\Users\Kristina C\Desktop\MediaMatch\MediaMatch\obj\Debug\MediaMatch.Properties.Resources.resources
+C:\Users\Kristina C\Desktop\MediaMatch\MediaMatch\obj\Debug\MediaMatch.csproj.GenerateResource.Cache
+C:\Users\Kristina C\Desktop\MediaMatch\MediaMatch\obj\Debug\MediaMatch.exe
+C:\Users\Kristina C\Desktop\MediaMatch\MediaMatch\obj\Debug\MediaMatch.pdb
+C:\Users\Kristina C\Desktop\MediaMatch\MediaMatch\obj\Debug\MediaMatch.Form1.resources
